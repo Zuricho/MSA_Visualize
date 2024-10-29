@@ -8,4 +8,4 @@ Please raise issue if you have any question or suggestion.
 
 # Demo
 
-![example](./example.png)
+<img src="./example.png" alt="example" style="zoom:30%;" />
