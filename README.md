@@ -8,6 +8,4 @@ Please raise issue if you have any question or suggestion.
 
 # Demo
 
-Work in progress
-
 ![example](./example.png)
